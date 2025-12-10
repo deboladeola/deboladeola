@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deboladeola
 - 👀 I’m interested in programming and creating cool stuff with codes 
-- 🌱 I’m currently learning as a first year software engineering with zero experience 
+- 🌱 I’m constatntly learning as a recent software engineering graduate
 - 💞️ I’m looking to learn from you all and also work on some projects 
 - 📫 How to reach me @adeolaadebola@gmail.com
 - 
